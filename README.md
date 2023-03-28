@@ -1,0 +1,2 @@
+# az_redis_customer_ready_deck_28_marc_2023
+az_redis_customer_ready_deck_28_marc_2023
